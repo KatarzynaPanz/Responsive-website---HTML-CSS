@@ -1,0 +1,162 @@
+/*start*/
+.start__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.start__article, .start__image {
+    width: 50%;
+    padding-top: 60px;
+}
+
+.start__article {
+    padding-left: 60px;
+}
+ /*utility*/
+
+.utility__header {
+    padding-top: 100px;
+    padding-left: 260px;
+    padding-right: 260px;
+    padding-bottom: 50px;
+}
+.utility__list {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding-right: 70px;
+    padding-left: 70px;
+
+}
+.utility__list-item--first, .utility__list-item--second, .utility__list-item--third {
+    padding-top: 30px;
+    min-width: 200px;
+}
+
+
+.utility__text--first, .utility__text--third {
+    padding-right: 10px;
+    padding-left: 10px
+}
+
+.utility__text--second {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+/*features*/
+
+.features__container {
+    display: flex;
+    justify-content: center;
+}
+
+.features__article {
+    width: 50%;
+    padding-top: 50px;
+}
+
+.features__image {
+    width: 50%;
+}
+
+.features__header {
+    padding-top: 0;
+}
+
+.features__text, .features__header  {
+    text-align: left;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+
+.features__button {
+    padding-left: 60px;
+    padding-bottom: 60px;
+    padding-right: 40px;
+}
+
+/*review*/
+.review__content-header {
+    font-size: 32px;
+    font-weight: 300;
+    padding-right: 220px;
+    padding-left: 220px;
+    line-height: 1.2em;
+}
+
+.review__content-text {
+    padding-top: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    line-height: 1.4em;
+}
+
+/*unlock*/
+
+.unlock__text {
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.unlock__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.unlock-inner__list {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.unlock-inner__list-item--first {
+    padding-top: 15px;
+}
+
+/*purchase*/
+
+.purchase__writing {
+    text-align: left;
+    padding-left: 100px;
+}
+
+.purchase__text {
+    font-size: 37px;
+}
+
+/*links*/
+
+.links__logo {
+    padding-top: 0;
+}
+
+.links__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.links__list-item01, .links__list-item02, .links__list-item03, .links__list-item04 {
+    width: 50%;
+}
+
+.links__list-item01, .links__list-item03 {
+    padding-left: 100px;
+}
+
+/*footer*/
+
+.footer__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__text {
+    padding-right: 3px;
+}
+
+.footer__text, .last__word {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}

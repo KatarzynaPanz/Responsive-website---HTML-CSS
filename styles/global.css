@@ -1,0 +1,30 @@
+:root {
+    --color-alfa: rgb(255, 255, 255);
+    --color-beta: rgb(0, 0, 0);
+}
+
+body {
+    /*background: blue;*/
+    font-family: 'Poppins', sans-serif;
+}
+
+.row, .container, .cell {
+    /*margin: 5px;
+    padding: 5px;*/
+    /*outline: 3px solid;*/
+}
+
+.row {
+    /*outline-color: green;*/
+}
+
+.container {
+    /*outline-color: blue;*/
+    margin: 0 auto;
+    /*width: 1000px;*/
+}
+
+.cell {
+   /* outline-color: orange;*/
+}
+
