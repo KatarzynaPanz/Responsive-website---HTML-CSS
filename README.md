@@ -1,12 +1,12 @@
 # Responsive website (HTML&CSS)
 
 ## About project
-The aim of the project was to create a responsive website - suitable for different devices (mobile, tablet, desktop). 
+The aim of the project was to create a responsive website - suitable for different devices (mobile, tablet, desktop). First mobile view was built according to the convention Mobile-First. The BEM methodology was used while creating HTML file.
 
 ## Features
 1. Website built on the basis of a given example 
-1. 3 different views for various breakpoints were prepared
-2. Google font `Poppins` was used in the project
+2. 3 different views for various breakpoints were prepared
+3. Google font `Poppins` was used in the project
 3. Social media icons created using [Font Awesome](https://fontawesome.com/)
 
 ## Technologies
