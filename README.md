@@ -18,3 +18,11 @@ Linkedin - [Katarzyna Panz](https://www.linkedin.com/in/katarzyna-panz-584399228
 
 ## Special thanks
 Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me with this task and for code review.
+
+## Overview
+### MOBILE
+![obraz](https://user-images.githubusercontent.com/91606497/227250172-bbcefd06-9ba3-4974-b2ba-384b30a28530.png)
+ ### TABLET
+ ![obraz](https://user-images.githubusercontent.com/91606497/227250341-4960c863-1490-4174-b406-568c05191872.png)
+### DESKTOP
+![obraz](https://user-images.githubusercontent.com/91606497/227250612-2feeb872-9b2c-49d1-8740-cf70cb7232e5.png)
